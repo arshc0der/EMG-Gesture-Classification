@@ -3,6 +3,10 @@
 ### Hand Gesture Recognition using 8-Channel EMG Signals for Prosthetic Control
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/arshc0der/EMG-Gesture-Classification/refs/heads/main/results/preview/preview.png" width="70%" alt="EMG Gesture Classification"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/status-Completed-brightgreen.svg" />
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Biosignal-EMG-purple" />
