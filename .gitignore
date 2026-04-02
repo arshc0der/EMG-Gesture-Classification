@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+models/emg_random_forest.pkl
+
 # C extensions
 *.so
 

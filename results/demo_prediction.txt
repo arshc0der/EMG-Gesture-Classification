@@ -1,0 +1,4 @@
+Demo Prediction
+Predicted class: 0
+Actual class: 0
+Input values: {'channel1': -2e-05, 'channel2': 1e-05, 'channel3': 0.0, 'channel4': -7e-05, 'channel5': -3e-05, 'channel6': 1e-05, 'channel7': 0.0, 'channel8': -1e-05}
